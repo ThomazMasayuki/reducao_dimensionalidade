@@ -1,5 +1,4 @@
-# reducao_dimensionalidade
-**Redução de Dimensionalidade**
+## **Redução de Dimensionalidade**
 
 Redução de Dimensionalidade em Imagens com Python
 Descrição do Projeto
